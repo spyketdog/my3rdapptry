@@ -17,6 +17,8 @@ gem 'paperclip', '~> 4.3.0'
 gem 'mimemagic', '~> 0.3.0'
 gem 'aws-sdk', '< 2.0'
 gem 'masonry-rails'
+gem 'will_paginate', '~> 3.0.6'
+gem 'will_paginate-bootstrap'
 
 
 group :development, :test do
