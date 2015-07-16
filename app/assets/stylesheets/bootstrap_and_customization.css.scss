@@ -41,3 +41,11 @@ a {
 .pagination > li > a, {
 	color: #333333
 }
+
+.pagination > li > a:hover, .pagination > li > a:focus,
+.pagination > li > span:hover,
+.pagination > li > span:focus {
+  color: #333333;
+  background-color: #eeeeee;
+  border-color: #ddd;
+}
